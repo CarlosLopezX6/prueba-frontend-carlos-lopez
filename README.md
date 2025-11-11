@@ -105,7 +105,7 @@ Prueba Técnica de Carlos Francisco López Juárez.
 - **lucide-react** - Iconos ligeros y modernos.
 - **dnd-kit** - Solución de drag and drop performante.
 - **sonner** - Librería ligera para notificaciones toast.
-- **React Router** - Para lazy loading entre páginas.
+- **React Router** - Para el enrutamiento.
 
 ## 📋 Requisitos Previos
 
