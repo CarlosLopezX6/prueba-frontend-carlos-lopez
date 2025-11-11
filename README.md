@@ -10,7 +10,7 @@ Prueba Técnica de Carlos Francisco López Juárez.
 - 🎨 **Tailwind CSS** - Framework de diseños utility-first.
 - 📱 **Diseño Responsivo** - Adaptable a todos los dispositivos.
 - 🎯 **Componentes Reutilizables** - Arquitectura componentizada siguiendo buenas prácticas.
-- 🎯 **Estado persistente** - Estado persistente mediante LocalStorage.
+- 🎯 **Estado Persistente** - Estado persistente mediante LocalStorage.
 - 🎯 **Implementación Context + Reducers** - Se implementó una sinergia entre context y reducers para la arquitectura en el estado global.
 - 📝 **React Hook Form** - Gestión eficiente de formularios con rendimiento optimizado.
 - ✅ **Zod** - Validación de esquemas con TypeScript-first para formularios seguros.
