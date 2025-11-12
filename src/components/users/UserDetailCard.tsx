@@ -6,7 +6,7 @@ interface Props {
 }
 export const UserDetailCard = ({ user }: Props) => {
 
-    const defaultImage = "/imagePlaceholder.wepb";
+    const defaultImage = "/imagePlaceholder.webp";
 
     const handleImageError = (e: React.SyntheticEvent<HTMLImageElement>) => {
         e.currentTarget.src = defaultImage;
